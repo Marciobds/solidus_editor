@@ -1,0 +1,9 @@
+---
+en:
+  spree:
+    enable_rich_editor: Habilitar Editor de Texto Rico
+    rich_editor: Editor de Texto Rico
+    rich_editor_description: Configurar Editor de Texto Rico.
+    rich_editor_engine: Mecanismo de Editor de Texto Rico
+    rich_editor_ids: Identificadores de Editor de Texto Rico
+    rich_editor_ids_description: "Lista as ids dos textarea divididos por espaços aqui"
